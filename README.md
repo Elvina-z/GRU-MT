@@ -30,7 +30,8 @@ If you find this project useful for your research, please use the following BibT
   year={2024},
   volume={},
   number={},
-  pages={1-1},
+  pages={},
   note={early access, doi: {10.1109/TUFFC.2024.3424955}},
-  keywords={Ultrasonic imaging;Trajectory tracking;Imaging;Location awareness;Acoustics;Task analysis;Frequency control;Gated recurrent unit;Microbubble tracking;Nonlinear motion;Ultrasound localization microscopy;Ultrasound super-resolution imaging}}
+  keywords={Ultrasonic imaging;Trajectory tracking;Imaging;Location awareness;Acoustics;Task analysis;Frequency control;Gated recurrent unit;Microbubble tracking;Nonlinear motion;Ultrasound localization microscopy;Ultrasound super-resolution imaging}
+}
 ```
